@@ -1,0 +1,27 @@
+[
+  {
+    "actor_id": 201,
+    "first_name": "Ivan",
+    "last_name": "Gunawan"
+  },
+  {
+    "actor_id": 202,
+    "first_name": "Ivan",
+    "last_name": "Dwi Cahyo"
+  },
+  {
+    "actor_id": 203,
+    "first_name": "Rafly",
+    "last_name": "Dioniswara"
+  },
+  {
+    "actor_id": 204,
+    "first_name": "Daniswara",
+    "last_name": "Muhammad"
+  },
+  {
+    "actor_id": 205,
+    "first_name": "Gunawan",
+    "last_name": "Budi"
+  }
+]
